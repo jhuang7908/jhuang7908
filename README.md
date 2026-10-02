@@ -4,7 +4,7 @@
 
 Core code and databases stay in private repositories. This page states what those repositories currently contain, and links only to pages that were reachable without a login on 2 October 2026.
 
-[InSynBio](https://insynbio.com/) · [LinkedIn](https://www.linkedin.com/in/jhuang77) · [Genomab](https://www.genomab.com/)
+[InSynBio](https://insynbio.com/) · [US Life Hub](https://www.uslifehub.org/) · [LinkedIn](https://www.linkedin.com/in/jhuang77) · [Genomab](https://www.genomab.com/)
 
 ## Counted scope
 
