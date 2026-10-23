@@ -1,6 +1,6 @@
 # Jing Huang
 
-**Co-founder of InSynBio.** Immunology and translational research: vaccine studies, humanized immune-system models, and computational antibody workflows.
+**Scientific Consultant at InSynBio.** Immunology and translational research: vaccine studies, humanized immune-system models, and computational antibody workflows (including humanization algorithm design and CMC/developability analysis).
 
 Core code and databases stay in private repositories. This page states what those repositories currently contain, and links only to pages that were reachable without a login on 2 October 2026.
 
